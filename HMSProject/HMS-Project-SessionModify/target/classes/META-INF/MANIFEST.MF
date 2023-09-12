@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: HMS-Project-Session
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: com.HMS
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://spring.io/projects/spring-boot/HMS-Project
+ -Session
+Created-By: Maven Integration for Eclipse
+
